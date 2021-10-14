@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sandile
+- 👀 I’m interested in Chatbots, NLU, ML and Data analysis
+- 🌱 I’m currently learning Python scripting
